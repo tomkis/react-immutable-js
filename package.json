@@ -1,0 +1,21 @@
+{
+  "name": "react-immutable-js",
+  "version": "0.1.0",
+  "description": "A simple demonstration how can immutable.js help you to build faster React application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tomas Weiss <tomasw@salsitasoft.com",
+  "dependencies": {
+    "babel-runtime": "^5.0.0-beta1",
+    "babelify": "^5.0.4",
+    "browserify": "^9.0.3",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-nodemon": "^2.0.2",
+    "immutable": "^3.7.1",
+    "react": "^0.13.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
